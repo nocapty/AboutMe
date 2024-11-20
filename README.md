@@ -1,2 +1,2 @@
 # AboutMe
-Get to know about me.
+Get to know something about me.
